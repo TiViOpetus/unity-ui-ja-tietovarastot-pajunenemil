@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"49a092f0-5ce3-4647-af2f-6eef9f732bfb\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"scoreCloud\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 0\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"49a092f0-5ce3-4647-af2f-6eef9f732bfb\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"scoreCloud\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 0\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"ab0e874c-0641-4798-a805-e50664a267e0\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"2a1c5db9-462d-417d-b354-501ebc6c78e8\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2022-04-06T09:10:31Z\",\r\n    \"updatedAt\":
+    \"2022-04-06T09:10:31Z\"\r\n  }\r\n]"
+  _rulesList: '[]'
+  _lastCachedRulesList: '[]'
